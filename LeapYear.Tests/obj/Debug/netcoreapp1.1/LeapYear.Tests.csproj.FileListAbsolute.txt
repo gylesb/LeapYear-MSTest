@@ -1,0 +1,4 @@
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.deps.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.runtimeconfig.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/bin/Debug/netcoreapp1.1/LeapYear.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/LeapYear.Solution/LeapYear.Tests/obj/Debug/netcoreapp1.1/LeapYear.Tests.AssemblyInfo.cs

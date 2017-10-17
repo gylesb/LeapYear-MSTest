@@ -1,4 +1,4 @@
-using Microsoft.Visual.Studio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using LeapYear;
 
 namespace LeapYear.TestTools
